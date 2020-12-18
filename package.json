@@ -1,0 +1,19 @@
+{
+  "name": "node-docker-heroku",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "heroku"
+  ],
+  "author": "Tarsis de Lima (https://github.com/tmvdl)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
